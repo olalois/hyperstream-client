@@ -73,7 +73,7 @@ class AppErrorBoundary extends Component<Props, State> {
 						Retry
 					</Button>
 					<a
-						href="https://github.com/accesslayerorg/accesslayer-client/issues"
+						href="https://github.com/olalois/hyperstream-client/issues"
 						target="_blank"
 						rel="noreferrer"
 						className="text-sm font-semibold text-white/70 underline underline-offset-4 hover:text-white"

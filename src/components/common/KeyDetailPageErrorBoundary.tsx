@@ -104,7 +104,7 @@ class KeyDetailPageErrorBoundary extends Component<ErrorBoundaryProps, State> {
 							</Link>
 						</Button>
 						<a
-							href="https://github.com/accesslayerorg/accesslayer-client/issues"
+							href="https://github.com/olalois/hyperstream-client/issues"
 							target="_blank"
 							rel="noreferrer"
 							className="inline-flex h-12 items-center rounded-xl border border-white/20 px-5 text-sm font-bold text-white hover:bg-white/10"

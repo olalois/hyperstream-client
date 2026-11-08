@@ -92,7 +92,7 @@ The production diff is intentionally small: one utility file, one hook, one comp
       - _Requirements: 1.3, 1.4, 2.2, 2.4_
 
 - [x] 6. Checkpoint — run tests and confirm everything passes
-   - Run `pnpm test` (or `pnpm vitest run`) from `accesslayer-client--fork/`
+   - Run `pnpm test` (or `pnpm vitest run`) from `hyperstream-client/`
    - Confirm `holderCountCacheInvalidation.test.tsx` passes all property and edge-case tests
    - Confirm `LandingPage.keyboard.test.tsx` still passes (no regression from Task 4 changes)
    - Fix any TypeScript or test errors surfaced; ask the user if questions arise.

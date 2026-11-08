@@ -19,7 +19,7 @@ interface KeyFreezeStatusBannerProps {
 
 /** Admin contact link shown in the banner when a freeze needs escalation. */
 export const FREEZE_SUPPORT_URL =
-	'https://github.com/accesslayerorg/accesslayer-client/issues';
+	'https://github.com/olalois/hyperstream-client/issues';
 
 function formatExpiry(iso: string, expiresAtMs: number | null): string {
 	if (expiresAtMs === null) return iso;

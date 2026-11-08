@@ -32,7 +32,7 @@ describe('RouteErrorBoundary', () => {
 			screen.getByRole('link', { name: /contact support/i })
 		).toHaveAttribute(
 			'href',
-			'https://github.com/accesslayerorg/accesslayer-client/issues'
+			'https://github.com/olalois/hyperstream-client/issues'
 		);
 
 		shouldThrow = false;

@@ -1,5 +1,5 @@
 {
-	"name": "accesslayer-client",
+	"name": "hyperstream-client",
 	"private": true,
 	"version": "0.0.0",
 	"packageManager": "pnpm@10.6.5",

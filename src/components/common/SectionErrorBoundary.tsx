@@ -95,7 +95,7 @@ class SectionErrorBoundary extends Component<Props, State> {
 						Retry
 					</Button>
 					<a
-						href="https://github.com/accesslayerorg/accesslayer-client/issues"
+						href="https://github.com/olalois/hyperstream-client/issues"
 						target="_blank"
 						rel="noreferrer"
 						className="text-sm font-semibold text-muted-foreground underline underline-offset-4 hover:text-foreground"

@@ -1,4 +1,4 @@
-# Contributing to Access Layer Client
+# Contributing to Hyperstream Client
 
 Thanks for contributing to the frontend for Access Layer, a Stellar-native creator keys marketplace.
 

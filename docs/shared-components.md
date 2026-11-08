@@ -2,7 +2,7 @@
 
 This guide documents the shared UI components available in the Access Layer client. It provides guidance on when to use each component, how to extend them, and the conventions for adding new shared components to the repository.
 
-Refer to the [Adding a New Page Route Guide](file:///Users/marvellous/Desktop/accesslayer-client/docs/adding-page-routes.md) when you are ready to wire these components into a new route or screen.
+Refer to the [Adding a New Page Route Guide](./adding-page-routes.md) when you are ready to wire these components into a new route or screen.
 
 ---
 
